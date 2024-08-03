@@ -1,0 +1,182 @@
+[
+    {
+        "word": "PlayStation 5",
+        "definition": "PlayStation 5 is a home video game console developed by Sony Interactive Entertainment, released in 2020."
+    },
+    {
+        "word": "Xbox Series X",
+        "definition": "Xbox Series X is a home video game console developed by Microsoft, released in 2020."
+    },
+    {
+        "word": "Windows 11",
+        "definition": "Windows 11 is an operating system developed by Microsoft, released in 2021."
+    },
+    {
+        "word": "macOS Ventura",
+        "definition": "macOS Ventura is the operating system for Apple's Mac computers, released in 2022."
+    },
+    {
+        "word": "JavaScript",
+        "definition": "JavaScript is a programming language used primarily for adding interactivity to web pages."
+    },
+    {
+        "word": "HTML",
+        "definition": "HTML stands for HyperText Markup Language and is used to create the structure of web pages."
+    },
+    {
+        "word": "CSS",
+        "definition": "CSS stands for Cascading Style Sheets and is used to style the appearance of web pages."
+    },
+    {
+        "word": "Node.js",
+        "definition": "Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser."
+    },
+    {
+        "word": "Express.js",
+        "definition": "Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and mobile applications."
+    },
+    {
+        "word": "API",
+        "definition": "API stands for Application Programming Interface. It is a set of rules and tools for building software applications, allowing different software systems to communicate with each other."
+    },
+    {
+        "word": "JSON",
+        "definition": "JSON stands for JavaScript Object Notation. It is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate."
+    },
+    {
+        "word": "REST",
+        "definition": "REST stands for Representational State Transfer. It is an architectural style for designing networked applications using stateless, client-server communication."
+    },
+    {
+        "word": "The Legend of Zelda: Breath of the Wild",
+        "definition": "An action-adventure game developed and published by Nintendo, released in 2017."
+    },
+    {
+        "word": "Super Mario Odyssey",
+        "definition": "A platform game developed and published by Nintendo, released in 2017."
+    },
+    {
+        "word": "Minecraft",
+        "definition": "A sandbox video game developed by Mojang Studios, originally released in 2011."
+    },
+    {
+        "word": "Animal Crossing: New Horizons",
+        "definition": "A life simulation video game developed and published by Nintendo, released in 2020."
+    },
+    {
+        "word": "The Legend of Zelda: Tears of the Kingdom",
+        "definition": "An action-adventure game developed and published by Nintendo, released on May 12, 2023."
+    },
+    {
+        "word": "Fortnite",
+        "definition": "Fortnite is an online video game developed by Epic Games, featuring a battle royale mode where players fight to be the last one standing."
+    },
+    {
+        "word": "Among Us",
+        "definition": "Among Us is an online multiplayer social deduction game developed by InnerSloth, where players work to complete tasks while impostors attempt to sabotage their efforts."
+    },
+    {
+        "word": "Genshin Impact",
+        "definition": "Genshin Impact is an open-world action role-playing game developed and published by miHoYo, released in 2020."
+    },
+    {
+        "word": "Overwatch",
+        "definition": "Overwatch is a team-based first-person shooter game developed and published by Blizzard Entertainment, featuring a diverse cast of characters."
+    },
+    {
+        "word": "Wikipedia",
+        "definition": "Wikipedia is a free online encyclopedia with articles written by volunteers and edited by anyone with internet access."
+    },
+    {
+        "word": "Python",
+        "definition": "Python is a high-level, interpreted programming language known for its readability and versatility, used in web development, data analysis, artificial intelligence, and more."
+    },
+    {
+        "word": "Cloud Computing",
+        "definition": "Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and more—over the internet (the cloud)."
+    },
+    {
+        "word": "Machine Learning",
+        "definition": "Machine learning is a branch of artificial intelligence that involves the development of algorithms that allow computers to learn from and make predictions based on data."
+    },
+    {
+        "word": "Blockchain",
+        "definition": "Blockchain is a decentralized digital ledger that records transactions across many computers so that the record cannot be altered retroactively."
+    },
+    {
+        "word": "Internet of Things (IoT)",
+        "definition": "IoT refers to the interconnected network of physical devices that collect and exchange data using embedded sensors, software, and other technologies."
+    },
+    {
+        "word": "Virtual Reality (VR)",
+        "definition": "Virtual Reality is a simulated experience that can be similar to or completely different from the real world, often experienced through VR headsets."
+    },
+    {
+        "word": "Augmented Reality (AR)",
+        "definition": "Augmented Reality overlays digital information on the real world, often viewed through devices like smartphones or AR glasses."
+    },
+    {
+        "word": "Cybersecurity",
+        "definition": "Cybersecurity involves the protection of computer systems and networks from digital attacks, theft, and damage."
+    },
+    {
+        "word": "Hi",
+        "definition": "A common greeting used to acknowledge someone."
+    },
+    {
+        "word": "Hello",
+        "definition": "A standard greeting used to start a conversation."
+    },
+    {
+        "word": "Hey",
+        "definition": "An informal greeting used to get someone's attention or say hello."
+    },
+    {
+        "word": "Goodbye",
+        "definition": "A farewell expression used when leaving or parting ways."
+    },
+    {
+        "word": "Bye",
+        "definition": "An informal way to say goodbye."
+    },
+    {
+        "word": "See you later",
+        "definition": "A casual way to say goodbye, indicating that you will meet again soon."
+    },
+    {
+        "word": "Thanks",
+        "definition": "An expression of gratitude or appreciation."
+    },
+    {
+        "word": "Thank you",
+        "definition": "A polite way to express gratitude."
+    },
+    {
+        "word": "You're welcome",
+        "definition": "A polite response to someone thanking you."
+    },
+    {
+        "word": "How are you?",
+        "definition": "A common question used to inquire about someone's well-being."
+    },
+    {
+        "word": "I'm fine",
+        "definition": "A response indicating that you are doing well."
+    },
+    {
+        "word": "Help",
+        "definition": "A request for assistance or support."
+    },
+    {
+        "word": "I need assistance",
+        "definition": "A more formal way to request help."
+    },
+    {
+        "word": "Sorry",
+        "definition": "An expression of apology or regret."
+    },
+    {
+        "word": "No problem",
+        "definition": "A casual response to indicate that there is no issue."
+    }
+]

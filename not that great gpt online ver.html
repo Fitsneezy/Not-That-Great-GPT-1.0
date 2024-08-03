@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Not That Great GPT</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <!-- Header -->
+    <div id="header">
+        <img src="logo.gif" alt="Logo" id="logo">
+        <button id="dev-menu-toggle">Dev Menu</button>
+        <button id="settings-toggle">Settings</button>
+        <button id="ng-gpt-toggle">Not Great GPTs</button>
+    </div>
+
+    <!-- Chat Section -->
+    <div id="chat-section">
+        <div id="chat-box">
+            <!-- Chat messages will be appended here -->
+        </div>
+        <textarea id="chat-input" placeholder="Type your message..."></textarea>
+        <button id="send-message">Send</button>
+        <button id="save-chat">Save Chat</button>
+    </div>
+
+    <!-- Developer Menu -->
+    <div id="dev-menu" class="hidden">
+        <h2>Developer Menu</h2>
+        <div>
+            <h3>Connections</h3>
+            <ul id="connection-list"></ul>
+        </div>
+        <div>
+            <h3>Errors</h3>
+            <ul id="error-list"></ul>
+        </div>
+        <div>
+            <h3>Console Output</h3>
+            <textarea id="console-output" readonly></textarea>
+        </div>
+        <div>
+            <h3>Developer Mode</h3>
+            <label>
+                <input type="checkbox" id="dev-mode-toggle"> Enable Dark Mode
+            </label>
+        </div>
+    </div>
+
+    <!-- Settings Menu -->
+    <div id="settings-menu" class="hidden">
+        <h2>Settings</h2>
+        <label>
+            <input type="checkbox" id="setting-dark-mode"> Enable Dark Mode
+        </label>
+    </div>
+
+    <!-- Not Great GPTs Section -->
+    <div id="ng-gpt-section" class="hidden">
+        <h2>Not Great GPTs</h2>
+        <ul id="chat-list"></ul>
+    </div>
+
+    <!-- Chat Data File Handling -->
+    <input type="file" id="chat-file-upload" class="hidden">
+</body>
+</html>
